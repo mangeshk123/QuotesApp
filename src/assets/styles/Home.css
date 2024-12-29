@@ -1,0 +1,25 @@
+.home-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.category-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.category-name {
+  background-color: #f0f0f0;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: #333;
+  font-size: 18px;
+  transition: background-color 0.3s;
+}
+
+.category-item:hover {
+  background-color: #ccc;
+}

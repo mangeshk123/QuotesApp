@@ -1,0 +1,46 @@
+{
+  "categories": {
+    "categories": [
+      "general",
+      "life",
+      "success",
+      "inspirational",
+      "fun",
+      "programming",
+      "dream",
+      "failure",
+      "gaming",
+      "birthday",
+      "Humorous",
+      "travel"
+    ]
+  },
+  "quotes": {
+    "quotes": [
+      {
+        "id": 1,
+        "content": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "inspirational"
+      },
+      {
+        "id": 2,
+        "content": "Success is not the key to happiness. Happiness is the key to success.",
+        "author": "Albert Schweitzer",
+        "category": "success"
+      },
+      {
+        "id": 3,
+        "content": "Life is what happens when you're busy making other plans.",
+        "author": "John Lennon",
+        "category": "life"
+      },
+      {
+        "id": 4,
+        "content": "Love yourself first and everything else falls into line.",
+        "author": "Lucille Ball",
+        "category": "love"
+      }
+    ]
+  }
+}

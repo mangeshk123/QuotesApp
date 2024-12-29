@@ -1,0 +1,15 @@
+.quote-list-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.quote-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.no-quotes-message {
+  font-size: 18px;
+  color: #555;
+}
